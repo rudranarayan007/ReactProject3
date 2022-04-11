@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800&display=swap');
+
+.flex {
+    /* display: flex;
+    flex-wrap: nowrap; */
+    top: 50px;
+    left: 50px;
+    position : absolute;
+    width: 1421px;
+    height:679px;
+    
+}
+h1{
+    justify-content: center;
+    color: rgb(0, 146, 209);
+    position: absolute;
+    left: 650px;
+    top: 170px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 30px;
+}
